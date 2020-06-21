@@ -1,0 +1,62 @@
+[
+{
+"name": "Snakes",
+"type": "Scientific",
+"image": "a",
+"id" : 1
+},
+{
+"name": "WWDC2020",
+"type": "News",
+"image": "b",
+"id" : 2
+},
+{
+"name": "Python tutorial",
+"type": "Tutorial",
+"image": "c",
+"id" : 3
+},
+{
+"name": "Life #2",
+"type": "Youtube video",
+"image": "d",
+"id" : 4
+},
+{
+"name": "Stanford lecture #1",
+"type": "Study",
+"image": "e",
+"id" : 5
+},
+{
+"name": "Stanford lecture #2",
+"type": "Study",
+"image": "f",
+"id" : 6
+},
+{
+"name": "Funny bears",
+"type": "Funny videos",
+"image": "g",
+"id" : 7
+},
+{
+"name": "Civil Engineering",
+"type": "scientific",
+"image": "h",
+"id" : 8
+},
+{
+"name": "Sport news",
+"type": "Sport",
+"image": "j",
+"id" : 9
+},
+{
+"name": "SwiftUI",
+"type": "Study",
+"image": "k",
+"id" : 10
+}
+]
